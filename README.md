@@ -24,9 +24,9 @@ dispay个人收款助手可实现收款成功后发送通知到服务器，网�
 
 #### 项目演示
 
-本项目演示地址： [点此测试](https://dispay.goodqp.com/)
+本项目演示地址： [点此测试](http://dispay.goodqp.com/)
 
 #### 源码下载 
  
-本项目源码下载： [点此下载](https://dispay.goodqp.com/)
+本项目源码下载： [点此下载](http://dispay.goodqp.com/)
 
